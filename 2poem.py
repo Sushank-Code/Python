@@ -1,0 +1,4 @@
+print('''I’ll tell you how the sun rose, —
+A ribbon at a time.
+The steeples swam in amethyst,
+The news like squirrels ran.''')
