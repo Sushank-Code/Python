@@ -8,7 +8,7 @@
 # s= num.sum()
 # print(s)
 
-class profile():                                     # Self Parameter Example
+class profile:                                     # Self Parameter Example
     Gender = "male"
     def printd(self):
         print(f"Name : {self.name}")                

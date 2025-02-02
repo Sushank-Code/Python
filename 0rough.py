@@ -1,2 +1,2 @@
-import math
-print(dir(math))
+import statistics
+# print(dir(statistics))
