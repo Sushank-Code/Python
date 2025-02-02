@@ -1,1 +1,0 @@
-Python basic tutorial ( View in order from 1 to other)
